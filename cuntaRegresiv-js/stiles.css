@@ -1,0 +1,43 @@
+*{
+         padding: 0;
+         margin: 0;
+         box-sizing: border-box;
+         font-family: sans-serif;
+}
+.contador {
+         background: brown;
+         padding: 20px;
+         display: flex;
+         justify-content: center;
+         padding-top: 20%;
+         font-size: 500%;
+         
+}
+.hora {
+         background: cadetblue;
+         display: flex;
+         border-radius: 20%;
+         
+         padding: 10px;
+}
+.minutos{
+      background: rgb(74, 102, 46);
+      display: flex;
+      border-radius: 20%;
+      padding: 10px;
+}
+.segundos {
+         background: darkcyan;
+         display: flex;
+         border-radius: 20%;
+         padding: 10px;
+}  
+h1 {
+      background: darkgoldenrod;
+      position: absolute;
+      font-size: 40%;
+      top: 3%;
+      width: 100%;
+      display: inline;
+    
+}       
